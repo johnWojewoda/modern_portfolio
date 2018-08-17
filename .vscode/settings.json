@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "git.enableSmartCommit": true,
+  "diffEditor.ignoreTrimWhitespace": true,
+  "editor.minimap.enabled": true,
+  "window.zoomLevel": -1,
+  "window.menuBarVisibility": "default",
+  "workbench.sideBar.location": "left",
+  "workbench.statusBar.visible": false,
+  "editor.wordWrap": "wordWrapColumn",
+  "markdown.preview.doubleClickToSwitchToEditor": false
+}
